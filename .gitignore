@@ -1,0 +1,8 @@
+/.settings
+/logs
+/plugins
+/tmp
+/vendor
+/.buildpath
+/.project
+/config/Migrations/*.lock
